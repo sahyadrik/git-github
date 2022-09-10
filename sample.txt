@@ -1,1 +1,3 @@
 Added some text for git_github
+
+I am a java developer and i am developing a gaming project
